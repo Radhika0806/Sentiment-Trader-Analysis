@@ -1,5 +1,27 @@
 # Sentiment Analysis of Trader Behavior
 
+## Overview
+This project analyzes the relationship between market sentiment and trader behavior.
+The goal is to understand whether sentiment indicators are associated with changes in
+trading activity and to identify behavioral patterns using exploratory analysis and
+basic clustering.
+
+The notebook demonstrates core data analyst skills including data cleaning, merging,
+exploratory analysis, visualization, and interpretation of insights.
+
+---
+
+## Project Structure
+- `Notebook.ipynb` – Main analysis notebook
+- `data/` – Input datasets (if applicable)
+- `README.md` – Project documentation
+
+---
+
+## Key Questions Explored
+- Does market sentiment relate to changes in trading volume?
+- Are certain sentiment conditions associated with more volatile behavior?
+- Can trades be grouped into behavioral archetypes using basic clustering?
 ## Setup
 
 <details>
